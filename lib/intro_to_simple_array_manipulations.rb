@@ -6,6 +6,6 @@ def using_insert
 
 end
 
-def
+def 
 
 end
